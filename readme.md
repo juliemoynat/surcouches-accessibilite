@@ -18,6 +18,7 @@ Je signale simplement que, malheureusement et même si c’est parfois promis, a
 - Question sur Quora, voir la réponse de Jeanne Spellman, le 3 mai 2018 : <i lang="en">[What do you think of accessibility widget like userway.org? Do they help small sites to be adhere with accessibility laws?](https://www.quora.com/What-do-you-think-of-accessibility-widget-like-userway-org-Do-they-help-small-sites-to-be-adhere-with-accessibility-laws)</i>
 - <i lang="en">[Your Accessibility Toolbar Doesn’t Help](https://www.joedolson.com/2019/03/your-accessibility-toolbar-doesnt-help/)</i>, Joe Dolson, 19 mars 2019
 - <i lang="en">[Overlays are not the solution to your accessibility problem](https://medium.com/@sheribyrnehaber/overlays-are-not-the-solution-to-your-accessibility-problem-c5ffe44bd61f)</i>, Sheri Byrne-Haber, 14 janvier 2020
+- Vidéo : <i lang="en">[Accessibility Overlays: What You See You Already Have](https://www.youtube.com/watch?v=nGQ_n6iey_w)</i>, Karl Groves, 27 janvier 2020
 
 ### Articles en français
 

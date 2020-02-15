@@ -56,6 +56,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Lisio de Numanis](http://numanis.net/)
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))
+- [Recite Me](https://reciteme.com/)
 - [Userway](https://userway.org/)
 
 ## Envie de contribuer ?

@@ -42,6 +42,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/) (extension WordPress)
 - [Orange Confort+](https://confort-plus.orange.com/) : cet outil est différent car il s’agit principalement d'une extension de navigateur gratuite mais il est possible de l’installer sur son propre site également ; ce qui est déconseillé. En effet, à la place, il est recommandé de suggérer aux utilisateurs et utilisatrices d’installer l'extension si elles veulent modifier l'apparence du site selon leurs besoins. Ainsi, elles pourront modifier l’apparence de tous les sites web qu'elles visitent.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/) : cette extension pour WordPress permet de corriger des problèmes d’accessibilité courants dans les thèmes et a, en plus, un module « <i lang="en">Toolbar</i> » qui est un outil-surcouche. Joe Dolson, créateur de cette extension a d’ailleurs écrit un article à ce sujet qui se trouve dans la liste des articles en anglais.
+- [WP Accessibility Helper](https://wordpress.org/plugins/wp-accessibility-helper/) (extension WordPress - il existe également une version payante)
 
 ### Les outils non open-source (payants ou avec version payante)
 
@@ -56,10 +57,9 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))
 - [Userway](https://userway.org/)
-- [WP Accessibility Helper](https://accessibility-helper.co.il/) (extension WordPress)
 
 ## Envie de contribuer ?
 
 S’il manque un article ou un outil dans les listes ci-dessus, vous pouvez me le proposer via un ticket sur Github (<i lang="en">issue</i>) ou en suggérant une modification vous-même (<i lang="en">pull request</i>).
 
-Dans ce dernier cas, je vous remercie de faire tout ce qui est en votre pouvoir pour respecter l’ordre alphabétique ou chronologique des listes pour que cela reste clair. ;-)
+Dans ce dernier cas, je vous remercie de faire tout ce qui est en votre pouvoir pour respecter l’ordre alphabétique ou chronologique des listes pour que cela reste clair. 😉

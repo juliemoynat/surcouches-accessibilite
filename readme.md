@@ -42,3 +42,4 @@ Je signale simplement que, malheureusement et même si c’est parfois promis, a
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))
 - [Userway](https://userway.org/)
 - [WP Accessibility Helper](https://accessibility-helper.co.il/)
+- [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/)

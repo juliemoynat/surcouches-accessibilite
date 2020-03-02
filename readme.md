@@ -26,6 +26,7 @@ Je vous laisse vous faire votre opinion sur le sujet.
 - [Adapte Mon Web : un pansement sur une jambe de bois](https://nouveauxmedias.fr/amw-jambe-de-bois/), Victor Fuseau, 28 novembre 2019
 - [Véronique Lapierre : « L’accessibilité ne se corrige pas, elle se conçoit »](https://nouveauxmedias.fr/veronique-lapierre-accessibilite/), interview de Véronique Lapierre par Victor Fuseau, 5 décembre 2019, à propos de l’outil français Adapte Mon Web.
 - [Un truc en javascript ne rend pas magiquement un site accessible](https://nota-bene.org/Un-truc-en-javascript-ne-rend-pas-magiquement-un-site-accessible), Stéphane Deschamps, 11 février 2020
+- [Les outils de surcouche d’accessibilité web : mensonges et boules de gommes](https://www.lelutinduweb.fr/surcouche-accessibilite-web-mensonges-boules-gommes/), Julie Moynat, 2 mars 2020
 
 ## Liste d’outils-surcouches d’accessibilité web
 

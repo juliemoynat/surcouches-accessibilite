@@ -25,6 +25,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
     - [Accessibweb](https://accessibweb.com/)
     - [WebAccessibilité](https://www.webaccessibilite.org/)
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
+- [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
 - [Equalweb](https://www.equalweb.com/)

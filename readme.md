@@ -1,4 +1,6 @@
-# Les outils qui proposent des surcouches d’accessibilité web
+# Listes des outils qui proposent des surcouches d’accessibilité web
+
+<i lang="en">[English version](readme-en.md)</i>
 
 Il existe de nombreux outils proposant des surcouches d’accessibilité web (aussi appelées « solutions d’accessibilité web » ou, en anglais, « <i lang="en">accessibility overlays</i> »).
 

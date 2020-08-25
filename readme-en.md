@@ -13,7 +13,7 @@ You can find below a non-exhaustive list of these tools.
 
 Indeed, unfortunately, and even if it is sometimes promised, **no tool can make a website fully compliant with WCAG rules or fully accessible to all disabled people**.
 
-## The open-source free tools
+## Open-source free tools
 
 - [AccessConfig](https://accessconfig.a11y.fr/)
 - [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/) (WordPress plugin)
@@ -34,8 +34,9 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Facil’iti in French](https://www.facil-iti.fr/) and [in English](https://www.facil-iti.com/)
 - [Lisio from Numanis](http://numanis.net/)
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
-- [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) ([you can test it here, for example](https://femmesautistesfrancophones.com/))
 - [Recite Me](https://reciteme.com/)
+- [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) ([you can test it here, for example](https://femmesautistesfrancophones.com/))
+- [True Accessibility plugin](https://trueaccessibility.com/solutions/accessibility-plugin/)
 - [Userway](https://userway.org/)
 
 ## Do you want to contribute?

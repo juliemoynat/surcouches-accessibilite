@@ -23,9 +23,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 
 ## Les outils non open-source (payants ou avec version payante)
 
-- [AccessiBe](https://accessibe.com/) et ses versions françaises :
-    - [Accessibweb](https://accessibweb.com/)
-    - [WebAccessibilité](https://www.webaccessibilite.org/)
+- [AccessiBe](https://accessibe.com/)
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)

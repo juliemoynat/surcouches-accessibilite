@@ -34,8 +34,10 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
+- [Max Access](https://maxaccess.io/)
 - [Recite Me](https://reciteme.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))
+- [Truabilities](https://truabilities.com/)
 - [True Accessibility plugin](https://trueaccessibility.com/solutions/accessibility-plugin/)
 - [Userway](https://userway.org/)
 

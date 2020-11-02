@@ -28,6 +28,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
+- [Bakh’Confort](https://bakhtech.com/)
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)

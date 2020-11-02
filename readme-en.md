@@ -28,6 +28,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
+- [Bakh’Confort](https://bakhtech.com/)
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti in French](https://www.facil-iti.fr/) and [in English](https://www.facil-iti.com/)
 - [Lisio from Numanis](http://numanis.net/)

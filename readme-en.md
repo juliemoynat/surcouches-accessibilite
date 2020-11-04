@@ -24,6 +24,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 ## Non-open-source tools (paid or with paid version)
 
 - [AccessiBe](https://accessibe.com/)
+    - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), a French franchise of AccessiBe
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)

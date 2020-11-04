@@ -24,6 +24,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 ## Les outils non open-source (payants ou avec version payante)
 
 - [AccessiBe](https://accessibe.com/)
+    - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), une franchise française d’AccessiBe
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)

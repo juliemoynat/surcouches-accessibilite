@@ -33,7 +33,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)
-- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
+- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/) et [A11yable](https://allyable.com/)
 - [Max Access](https://maxaccess.io/)
 - [Recite Me](https://reciteme.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))

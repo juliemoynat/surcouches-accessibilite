@@ -16,6 +16,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 ## Les outils open-source et gratuits
 
 - [AccessConfig](https://accessconfig.a11y.fr/)
+- [Confort de lecture](http://www.confortdelecture.org/)
 - [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/) (extension WordPress)
 - [Orange Confort+](https://confort-plus.orange.com/) : cet outil est différent car il s’agit principalement d'une extension de navigateur gratuite mais il est possible de l’installer sur son propre site également ; ce qui est déconseillé. En effet, à la place, il est recommandé de suggérer aux utilisateurs et utilisatrices d’installer l'extension si elles veulent modifier l'apparence du site selon leurs besoins. Ainsi, elles pourront modifier l’apparence de tous les sites web qu'elles visitent.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/) : cette extension pour WordPress permet de corriger des problèmes d’accessibilité courants dans les thèmes et a, en plus, un module « <i lang="en">Toolbar</i> » qui est un outil-surcouche.
@@ -30,6 +31,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
+- [BrowseAloud](https://www.texthelp.com/en-gb/products/browsealoud/)
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)

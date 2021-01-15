@@ -16,6 +16,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 ## Open-source free tools
 
 - [AccessConfig](https://accessconfig.a11y.fr/)
+- [Confort de lecture](http://www.confortdelecture.org/)
 - [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/) (WordPress plugin)
 - [Orange Confort+](https://confort-plus.orange.com/): this tool is different because it is mainly a free browser extension but it is possible to install it on your own site as well; this is not recommended. Instead, it is recommended to suggest that users install the extension if they want to change the appearance of the site according to their needs. In this way, they will be able to change the appearance of all the websites they visit.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/): this WordPress plugin fixes common accessibility problems in themes and has, in addition, a “Toolbar” module which is an accessibility overlay.
@@ -30,6 +31,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
+- [BrowseAloud](https://www.texthelp.com/en-gb/products/browsealoud/)
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti in French](https://www.facil-iti.fr/) and [in English](https://www.facil-iti.com/)
 - [Lisio from Numanis](http://numanis.net/)

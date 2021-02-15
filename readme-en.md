@@ -42,6 +42,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Truabilities](https://truabilities.com/)
 - [True Accessibility plugin](https://trueaccessibility.com/solutions/accessibility-plugin/)
 - [Userway](https://userway.org/)
+    - [AccessibleLink](https://www.accessiblelink.com/)
 
 ## Do you want to contribute?
 

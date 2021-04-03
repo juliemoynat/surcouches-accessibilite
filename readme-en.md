@@ -34,6 +34,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
 - [BrowseAloud](https://www.texthelp.com/en-gb/products/browsealoud/)
+- [EasyReading] (https://www.easyreading.eu/) Free browser addons for Firefox and Chrome. Unlike other overlay tools, nothing is installed on the websites directly.
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti in French](https://www.facil-iti.fr/) and [in English](https://www.facil-iti.com/)
 - [Lisio from Numanis](http://numanis.net/)

@@ -34,7 +34,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
 - [BrowseAloud](https://www.texthelp.com/en-gb/products/browsealoud/)
-- [EasyReading] (https://www.easyreading.eu/) Propose des extensions gratuites pour Firefox et Chrome, à la différence des autres iutils de surcouche rien ne s'installe sur les sites directement. 
+- [EasyReading] (https://www.easyreading.eu/) Propose des extensions gratuites pour Firefox et Chrome, à la différence des autres outils de surcouche rien ne s'installe sur les sites directement. 
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)

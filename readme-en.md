@@ -21,6 +21,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Orange Confort+](https://confort-plus.orange.com/): this tool is different because it is mainly a free browser extension but it is possible to install it on your own site as well; this is not recommended. Instead, it is recommended to suggest that users install the extension if they want to change the appearance of the site according to their needs. In this way, they will be able to change the appearance of all the websites they visit.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/): this WordPress plugin fixes common accessibility problems in themes and has, in addition, a “Toolbar” module which is an accessibility overlay.
 - [WP Accessibility Helper](https://wordpress.org/plugins/wp-accessibility-helper/) (WordPress plugin - it has also a paid version)
+- [Tab Panel Widget] (https://tabpanelwidget.com/) an open-source tool to make tabpanels and accordions accessible
 
 ## Non-open-source tools (paid or with paid version)
 

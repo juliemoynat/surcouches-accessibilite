@@ -24,9 +24,11 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 
 ## Les outils non open-source (payants ou avec version payante)
 
-- [AccessiBe](https://accessibe.com/)
+- [AccessiBe](https://accessibe.com/) et [l’extension WordPress](https://wordpress.org/plugins/accessibe/)
+    - [Enable](https://enablemysite.com/) et [l’extension WordPress](https://wordpress.org/plugins/enable-accessibility/)
     - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), une franchise française d’AccessiBe
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
+- [AdaComply](https://getadacomply.com/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
@@ -35,7 +37,8 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
 - [Lisio de Numanis](http://numanis.net/)
-- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/) et [A11yable](https://allyable.com/)
+- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
+    - [A11yable](https://allyable.com/)
 - [Max Access](https://maxaccess.io/)
 - [Recite Me](https://reciteme.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))

@@ -24,9 +24,11 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 
 ## Non-open-source tools (paid or with paid version)
 
-- [AccessiBe](https://accessibe.com/)
+- [AccessiBe](https://accessibe.com/) and [the WordPress plugin](https://wordpress.org/plugins/accessibe/)
+    - [Enable](https://enablemysite.com/) and [the WordPress plugin](https://wordpress.org/plugins/enable-accessibility/)
     - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), a French franchise of AccessiBe
 - [Accessman - Ability Browser](http://www.access-man.com/quest-ce-que-ability-browser/)
+- [AdaComply](https://getadacomply.com/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Audioeye](https://www.audioeye.com/)
@@ -35,7 +37,8 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti in French](https://www.facil-iti.fr/) and [in English](https://www.facil-iti.com/)
 - [Lisio from Numanis](http://numanis.net/)
-- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/) and [A11yable](https://allyable.com/)
+- [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
+    - [A11yable](https://allyable.com/)
 - [Max Access](https://maxaccess.io/)
 - [Recite Me](https://reciteme.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) ([you can test it here, for example](https://femmesautistesfrancophones.com/))

@@ -21,6 +21,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Orange Confort+](https://confort-plus.orange.com/) : cet outil est différent car il s’agit principalement d'une extension de navigateur gratuite mais il est possible de l’installer sur son propre site également ; ce qui est déconseillé. En effet, à la place, il est recommandé de suggérer aux utilisateurs et utilisatrices d’installer l'extension si elles veulent modifier l'apparence du site selon leurs besoins. Ainsi, elles pourront modifier l’apparence de tous les sites web qu'elles visitent.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/) : cette extension pour WordPress permet de corriger des problèmes d’accessibilité courants dans les thèmes et a, en plus, un module « <i lang="en">Toolbar</i> » qui est un outil-surcouche.
 - [WP Accessibility Helper](https://wordpress.org/plugins/wp-accessibility-helper/) (extension WordPress - il existe également une version payante)
+- [Tab Panel Widget] (https://tabpanelwidget.com/) un outil open-source pour rendre les onglets accessibles
 
 ## Les outils non open-source (payants ou avec version payante)
 

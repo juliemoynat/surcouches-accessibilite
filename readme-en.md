@@ -4,6 +4,10 @@
 
 There are a lot of web accessibility overlays.
 
+These tools are generally represented by a button named “Accessibility” or containing an icon of a person in a wheelchair or a Vitruvian man. When clicked, these buttons display a series of options to modify the visual appearance of the website or to read the content of the page with a speech synthesizer, etc.
+
+These tools are individually installed in the websites.
+
 You can find below a non-exhaustive list of these tools.
 
 ⚠️ If you want to install one of these tools (or another one):
@@ -18,7 +22,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [AccessConfig](https://accessconfig.a11y.fr/)
 - [Confort de lecture](http://www.confortdelecture.org/)
 - [One Click Accessibility](https://wordpress.org/plugins/pojo-accessibility/) (WordPress plugin)
-- [Orange Confort+](https://confort-plus.orange.com/): this tool is different because it is mainly a free browser extension but it is possible to install it on your own site as well; this is not recommended. Instead, it is recommended to suggest that users install the extension if they want to change the appearance of the site according to their needs. In this way, they will be able to change the appearance of all the websites they visit.
+- [Orange Confort+](https://confort-plus.orange.com/): this tool is different because it is mainly a free browser add-on but it is possible to install it on your own site as well; this is not recommended. Instead, it is recommended to suggest that users install the add-on if they want to change the appearance of the site according to their needs. In this way, they will be able to change the appearance of all the websites they visit.
 - [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/): this WordPress plugin fixes common accessibility problems in themes and has, in addition, a “Toolbar” module which is an accessibility overlay.
 - [WP Accessibility Helper](https://wordpress.org/plugins/wp-accessibility-helper/) (WordPress plugin - it has also a paid version)
 
@@ -48,7 +52,16 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Userway](https://userway.org/)
     - [AccessibleLink](https://www.accessiblelink.com/)
 
-## Do you want to contribute?
+# List of browser add-ons to help navigation and browsing of web sites
+
+There are browser add-ons that have the same purpose as the accessibility overlays mentioned above: to adapt the appearance of web pages to some needs of some disabled people. However, the add-ons are supposed to work on all websites.
+
+Of course, they will generally work better on websites that already comply with the WCAG standard. The existence of these add-ons must not be a reason for not making your website accessible because they do not make websites accessible or compliant with WCAG rules.
+
+- [EasyReading](https://www.easyreading.eu/): add-on available on Firefox and Chrome  
+- [Orange Confort+](https://confort-plus.orange.com/): add-on available on Firefox, Chrome, Internet Explorer
+
+# Do you want to contribute?
 
 If a tool is missing from the above lists, you can propose it via an issue on Github or by suggesting yourself a modification (pull request).
 

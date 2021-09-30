@@ -29,6 +29,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 ## Les outils non open-source (payants ou avec version payante)
 
 - [AccessiBe](https://accessibe.com/) et [l’extension WordPress](https://wordpress.org/plugins/accessibe/)
+    - [AccessiWay](https://www.accessiway.com/), une franchise italienne d'AccessiBe
     - [Enable](https://enablemysite.com/) et [l’extension WordPress](https://wordpress.org/plugins/enable-accessibility/)
     - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), une franchise française d’AccessiBe
 - [Accessman - Ability Browser](https://www.access-man.com/ability-browser-le-navigateur-accessible/)

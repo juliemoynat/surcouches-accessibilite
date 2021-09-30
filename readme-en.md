@@ -29,6 +29,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 ## Non-open-source tools (paid or with paid version)
 
 - [AccessiBe](https://accessibe.com/) and [the WordPress plugin](https://wordpress.org/plugins/accessibe/)
+    - [AccessiWay](https://www.accessiway.com/), an Italian franchise of AccessiBe
     - [Enable](https://enablemysite.com/) and [the WordPress plugin](https://wordpress.org/plugins/enable-accessibility/)
     - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), a French franchise of AccessiBe
 - [Accessman - Ability Browser](https://www.access-man.com/ability-browser-le-navigateur-accessible/)

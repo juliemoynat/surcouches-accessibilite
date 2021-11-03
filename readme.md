@@ -30,17 +30,20 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 
 - [AccessiBe](https://accessibe.com/) et [l’extension WordPress](https://wordpress.org/plugins/accessibe/)
     - [AccessiWay](https://www.accessiway.com/), une franchise italienne d'AccessiBe
+    - [Accessus.ai](https://accessus.ai/), une franchise
     - [Enable](https://enablemysite.com/) et [l’extension WordPress](https://wordpress.org/plugins/enable-accessibility/)
     - [HandiEasyWeb](https://handieasy.com/content/13quest-ce-que-handieasyweb), une franchise française d’AccessiBe
+- [Accessibility ADApter™, par ADA Site Compliance](https://adasitecompliance.com/accessibility-adapter-info/)
+- [Accessibility Enabler (HikeOrders)](https://hikeorders.com/accessibility/home/#)
 - [Accessman - Ability Browser](https://www.access-man.com/ability-browser-le-navigateur-accessible/)
 - [ADA Bundle](https://adabundle.com/)
-    - [Ada-comply](https://ada-comply.net/)
-    - [ADA Comply Fix](https://adacomplyfix.com/)
-    - [ADA Comply guy](https://adacomplyguy.com/)
+    - [Ada-comply (ada-comply.net)](https://ada-comply.net/)
+    - [ADA Comply Fix (adacomplyfix.com)](https://adacomplyfix.com/)
+    - [ADA Comply guy (adacomplyguy.com)](https://adacomplyguy.com/)
     - [ADA Web comply](https://adawebcomply.biz/)
 - [ADA Compliance Plugin - Accessibly, made by OnTheMapMarketing](https://www.onthemapmarketing.com/accessibly/), widget pour Shopify et WordPress
 - [AdaComply](https://getadacomply.com/)
-    - [ADA Comply your website](https://ada-comply.com/)
+    - [ADA Comply your website (ada-comply.com)](https://ada-comply.com/)
     - [The Ada Comply team](https://theadacomplyteam.com/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
@@ -48,11 +51,15 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Bakh’Confort](https://bakhtech.com/)
 - [Equalweb](https://www.equalweb.com/)
 - [Facil’iti en français](https://www.facil-iti.fr/) et [en anglais](https://www.facil-iti.com/)
-- [Lisio de Numanis](http://numanis.net/)
+- [Inclusite](https://www.inclusite.com/en/)
+- [Lisio, par Numanis](http://numanis.net/)
+- [Magixite, par Octa Code](https://acc.magixite.com/)
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
     - [A11yable](https://allyable.com/)
 - [Max Access](https://maxaccess.io/)
+- [Purple Lens](https://purple-lens.com)
 - [ReachDeck toolbar](https://www.texthelp.com/en-gb/products/reachdeck/) (ex-BrowseAloud)
+- [ReadSpeaker](https://www.readspeaker.com)
 - [Recite Me](https://reciteme.com/)
 - [Sogo Accessibility plugin](https://pluginsmarket.com/downloads/accessibility-plugin/) (testable [ici, par exemple](https://femmesautistesfrancophones.com/))
 - [Truabilities](https://truabilities.com/)
@@ -60,6 +67,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [User1st](https://www.user1st.com/)
 - [Userway](https://userway.org/)
     - [AccessibleLink](https://www.accessiblelink.com/)
+    - [ADA Compliance (adacomply.net)](https://www.adacomply.net/)
 
 # Liste des extensions de navigateurs d’aide à la navigation et consultation des sites web
 
@@ -67,7 +75,8 @@ Il existe des extensions de navigateurs qui ont le même but que les outils de s
 
 Bien sûr, elles fonctionneront généralement mieux sur des sites web respectant déjà la norme WCAG. L’existence de ces extensions ne doit pas dédouanner de la mise en accessibilité de son site web car elles ne rendent pas les sites accessibles ou conformes aux règles WCAG.
 
-- [EasyReading](https://www.easyreading.eu/) : extension disponible pour Firefox et Chrome  
+- [EasyReading](https://www.easyreading.eu/) : extension disponible pour Firefox et Chrome
+- [Omoguru](https://www.omoguru.com/) : extension pour Chrome dédiée aux personnes dyslexiques
 - [Orange Confort+](https://confort-plus.orange.com/) : extension disponible pour Firefox, Chrome, Internet Explorer
 
 # Envie de contribuer ?

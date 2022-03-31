@@ -57,6 +57,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 - [Make-Sense Web Accessibility Solutions](https://mk-sense.com/)
     - [A11yable](https://allyable.com/)
 - [Max Access](https://maxaccess.io/)
+- [PubliSpeak](https://blog.ipedis.com/publispeak-les-options-de-confort-pour-une-consultation-optimale) ([you can test it here, for example](https://groupe-adp.publispeak.com/rapport-dactivite-et-de-developpement-durable-2020/article/7/))
 - [Purple Lens](https://purple-lens.com)
 - [ReachDeck toolbar](https://www.texthelp.com/en-gb/products/reachdeck/) (ex-BrowseAloud)
 - [ReadSpeaker](https://www.readspeaker.com)

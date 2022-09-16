@@ -77,6 +77,7 @@ Il existe des extensions de navigateurs qui ont le même but que les outils de s
 Bien sûr, elles fonctionneront généralement mieux sur des sites web respectant déjà la norme WCAG. L’existence de ces extensions ne doit pas dédouanner de la mise en accessibilité de son site web car elles ne rendent pas les sites accessibles ou conformes aux règles WCAG.
 
 - [EasyReading](https://www.easyreading.eu/) : extension disponible pour Firefox et Chrome
+- [Lexia Reader](https://www.oziku.tech/) par Oziku Tech : extension disponible pour Firefox, Chrome et Edge
 - [Omoguru](https://www.omoguru.com/) : extension pour Chrome dédiée aux personnes dyslexiques
 - [Orange Confort+](https://confort-plus.orange.com/) : extension disponible pour Firefox, Chrome, Internet Explorer
 

@@ -77,6 +77,7 @@ There are browser add-ons that have the same purpose as the accessibility overla
 Of course, they will generally work better on websites that already comply with the WCAG standard. The existence of these add-ons must not be a reason for not making your website accessible because they do not make websites accessible or compliant with WCAG rules.
 
 - [EasyReading](https://www.easyreading.eu/): add-on available on Firefox and Chrome
+- [Lexia Reader](https://www.oziku.tech/) by Oziku Tech : add-on available on Firefox, Chrome and Edge
 - [Omoguru](https://www.omoguru.com/) : add-on available on Chrome, dedicated to dyslexic people
 - [Orange Confort+](https://confort-plus.orange.com/): add-on available on Firefox, Chrome, Internet Explorer
 

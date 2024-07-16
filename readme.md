@@ -47,6 +47,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
     - [The Ada Comply team](https://theadacomplyteam.com/)
 - [Adally](https://adally.com/)
 - [Adapte mon web](https://adaptemonweb.fr/)
+- [Adaptify, par GreenDevAccess](https://www.greendev-access.com/fr/nos-produits)
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
 - [Equalweb](https://www.equalweb.com/)

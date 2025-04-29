@@ -28,6 +28,7 @@ Indeed, unfortunately, and even if it is sometimes promised, **no tool can make 
 
 ## Non-open-source tools (paid or with paid version)
 
+- [Accessi+](https://www.accessiplus.com)
 - [AccessiBe](https://accessibe.com/) and [the WordPress plugin](https://wordpress.org/plugins/accessibe/)
     - [AccessiWay](https://www.accessiway.com/), an Italian franchise of AccessiBe
     - [Accessus.ai](https://accessus.ai/), a franchise

@@ -28,6 +28,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 
 ## Les outils non open-source (payants ou avec version payante)
 
+- [Accessi+](https://www.accessiplus.com)
 - [AccessiBe](https://accessibe.com/) et [l’extension WordPress](https://wordpress.org/plugins/accessibe/)
     - [AccessiWay](https://www.accessiway.com/), une franchise italienne d'AccessiBe
     - [Accessus.ai](https://accessus.ai/), une franchise

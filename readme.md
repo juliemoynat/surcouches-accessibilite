@@ -50,6 +50,7 @@ En effet, malheureusement, et même si c’est parfois promis, **aucun outil ne 
 - [Adapte mon web](https://adaptemonweb.fr/)
 - [Adaptify, par GreenDevAccess](https://www.greendev-access.com/fr/nos-produits)
 - [Allyable](https://allyable.com/)
+- [All in one accessibility](https://www.skynettechnologies.com/all-in-one-accessibility)
 - [Audioeye](https://www.audioeye.com/)
 - [Bakh’Confort](https://bakhtech.com/)
 - [Equalweb](https://www.equalweb.com/)
